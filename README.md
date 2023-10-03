@@ -12,7 +12,7 @@
 ## About
 
 <p align="center">
-      <img src="(https://ibb.co/GR6kKQ9)" width="726">
+      <img src="https://ibb.co/GR6kKQ9" width="726">
 </p>
 <p align="center">
       <img src="[Project Logo Url](https://github.com/vivatttt/TicTacToe-game/assets/143903636/8a3e15f8-7588-460f-b1f7-853bb61e40c4)" width="726">
