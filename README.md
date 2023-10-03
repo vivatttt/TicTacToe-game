@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-      <img src="https://i.ibb.co/2d9PD3S/image.png", "width=500">
+      <img src="https://i.ibb.co/qkwtrFb/image.png", "width=500">
 </p>
 
 https://i.ibb.co/2d9PD3S/image.png
