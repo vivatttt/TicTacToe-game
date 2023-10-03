@@ -42,7 +42,7 @@ Below are the main elements of the game interface
 **`click()`** - button click processing <br>
 **`add_x()`** - draw a cross <br>
 **`add_o()`** - draw a nought <br>
-**`draw_mesh()`** - adding <br>
+**`draw_mesh()`** - adding a grid <br>
 **`bot_move()`** - choosing most appropriative move for current step and executing it <br>
 **`get_winner()`** - checking if there is a winner <br>
 **`end()`** - processing the end of the game <br>
