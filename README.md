@@ -12,7 +12,7 @@
 ## About
 
 <p align="center">
-      <img src="https://ibb.co/GR6kKQ9" width="726">
+      <img src="https://ibb.co/GR6kKQ9">
 </p>
 
 
