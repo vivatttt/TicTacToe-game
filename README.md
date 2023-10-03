@@ -10,7 +10,7 @@
 </p>
 
 ## About
-This is a PvE version of the famous **tic-tac-toe** game and is implemented on the basis of *Tkinter* using modules such as *Canvas* and *ttk*.
+This is a PvE version of the famous **tic-tac-toe** game and is implemented on the basis of *Tkinter* using modules such as *Canvas* and *ttk* <br>
 Below are the main elements of the game interface
 #### Main interface <br>
 <p align="">
