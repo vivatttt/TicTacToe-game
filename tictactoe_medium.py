@@ -253,19 +253,14 @@ class TicTacToe(tkinter.Canvas):
                 
         if attack != None:
             k = attack
-            print('attack')
         elif protect != None:
             k = protect
-            print('protection')
         else:
             if self.state[4] == None:
                 k = 4
-                print('middle occupation')
             else:
                 k = choice(free_cells)
-                print('random')
-
-
+                
         self.state[k] = (self.result + 1) % 2 # result: 0 -> 1; 1 -> 0
         
         if k == 0:
