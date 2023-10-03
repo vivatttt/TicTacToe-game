@@ -18,7 +18,7 @@
       <img src="https://github.com/vivatttt/TicTacToe-game/assets/143903636/8a3e15f8-7588-460f-b1f7-853bb61e40c4>
 </p>
 <p align="center">
-      <img src="https://github.com/vivatttt/TicTacToe-game/assets/143903636/9fccce3f-dfba-4799-900c-d615f0234cfa" width="726">
+      <img src="https://github.com/vivatttt/TicTacToe-game/assets/143903636/9fccce3f-dfba-4799-900c-d615f0234cfa">
 </p>
 
 ## Documentation
